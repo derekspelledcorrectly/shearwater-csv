@@ -1,0 +1,2 @@
+# Development dependencies
+pycodestyle>=2.11.0  # For code style checking
